@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pavelz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pavelz.github.io
+  * I am pavelz (https://keybase.io/pavelz) on keybase.
+  * I have a public key ASAAeZ0YN8ZXNIX8RIhbxa5NAvb2Zv7gRTDgcHgRmHmjiAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c27941c18450faace8b04745879fc7fdc1b1d6c71364d755ab7be8e5d36db2f20a",
+      "host": "keybase.io",
+      "kid": "012000799d1837c6573485fc44885bc5ae4d02f6f666fee04530e07078119879a3880a",
+      "uid": "cc45f97ad2d6bc68a82609a3eadd6519",
+      "username": "pavelz"
+    },
+    "merkle_root": {
+      "ctime": 1578757133,
+      "hash": "ba1f016309abe25a65991862cda43304bb86167852668a2a412123df3d8d96433f9bc5b84e08ec6884b683d3d074f2122a77ec6e68f16d8894647ac1561612cf",
+      "hash_meta": "1234f23fbf8ab1164a42598c25a7fc8bb67b2d8fd096ca0656de6579c054a222",
+      "seqno": 14183621
+    },
+    "service": {
+      "entropy": "4E9GQ82wcx99CSXJ9shts378",
+      "hostname": "pavelz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578757142,
+  "expire_in": 504576000,
+  "prev": "7ff055aec1858ab8a3e13ba6d901b4704b72aab7a9aeea2fe32f88a722337340",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAHmdGDfGVzSF/ESIW8WuTQL29mb+4EUw4HB4EZh5o4gKp3BheWxvYWTESpcCJsQgf/BVrsGFirij4Tum2QG0cEtyqrepruov4y+IpyIzc0DEIFEUA/r4q1jaLA4EMjLXvXZmpXXeLaXNn4IVtwK6vVytAgHCo3NpZ8RAWvG+bxgSNXRsM1zQEJDByeuzZsFeCLhEkN2P1oFCNbUCL5i/hWvfp3zIUlOuv/jGN309XoOCN0uc+l9jubaEDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB0mdfwMuffmwqK9F7XXmIp3vZwXqZylyFINVzF4pQ88o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pavelz
+
+==================================================================
